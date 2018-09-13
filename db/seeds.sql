@@ -1,7 +1,6 @@
 INSERT INTO burgers (burger_name, devoured) VALUES 
 ("Poblano Picasso Burger", FALSE),
 ("Don't Get Creme Fraiche With Me Burger", FALSE),
-("Sgt. Poblano Pepper Lonely Artichoke Hearts Club Burger", FALSE),
 ("Chipotle Off the Old Block Burger", FALSE),
 ("Fig-eta Bout It Burger", FALSE),
 ("Hummus a Tune Burger", FALSE),
